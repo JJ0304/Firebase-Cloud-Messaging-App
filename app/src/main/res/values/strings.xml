@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FCMapp</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_notification_channel_name">notifchannel</string>
+    <string name="msg_token_fmt">FCM registration Token: %s</string>
+</resources>
